@@ -10,8 +10,8 @@ Reinos de Hierro o _Iron Kingdoms_ es un juego de rol _steampunk_ o _gaslamp fan
 
 #### Clases
 
-* [Clase Chapucero](kno/chapucero.md)
-* [Mago Pistolero](kno/magopistolero.md)
+* [Trasfondo Chapucero](kno/chapucero.md)
+* [Clase Mago Pistolero](kno/magopistolero.md)
 * Mecániko Arcano
 * Pistolero
 * Portador del miedo
